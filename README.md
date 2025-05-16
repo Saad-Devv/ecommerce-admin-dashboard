@@ -1,12 +1,57 @@
-# React + Vite
+# 🛍️ E-commerce Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive web-based admin dashboard built with **React**, **Vite**, and **Tailwind CSS**. This dashboard helps e-commerce managers monitor sales, revenue, and inventory in real-time through an intuitive UI and interactive charts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+### 📊 Revenue Analysis
+- Real-time display of total **orders**, **sales**, and **revenue**
+- Filterable by **product category**
+- Interactive charts showing:
+  - Revenue trends (daily, weekly, monthly, annually)
+  - Sales vs Orders comparisons
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 📦 Inventory Management
+- View all products with current **inventory status**
+- Search, filter, and sort products
+- **Low stock alerts**
+- Inventory level **updates** in real-time
+
+### ➕ Product Registration
+- Add new products with:
+  - Product name, description, category, price, and stock level
+  - Image upload functionality
+- Auto-updates dashboard and inventory on submission
+
+---
+
+## 🛠 Tech Stack
+
+| Tech        | Description                     |
+|-------------|---------------------------------|
+| React       | Front-end UI framework          |
+| Vite        | Fast React build tool           |
+| Tailwind CSS| Utility-first styling framework |
+| Recharts    | For building responsive charts  |
+
+---
+
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/ecommerce-dashboard.git
+cd ecommerce-dashboard
+
+👨‍💻 Author
+Saad Ali — Frontend Developer (React, Vite, Tailwind CSS)
+Feel free to connect or reach out for collaboration!
+
+My Linkedin : https://www.linkedin.com/in/saadali072/
+
